@@ -1,4 +1,4 @@
- public class örnek {
+ public class örnek {//private olarak kullandığımız erişim belirleyiciye nasıl diğer classtan ulaşabileceğimiz göstermektedir
 
     private int şifre = 123; // burda private olan bir erişim belirleyiciye
     //değer atadık
